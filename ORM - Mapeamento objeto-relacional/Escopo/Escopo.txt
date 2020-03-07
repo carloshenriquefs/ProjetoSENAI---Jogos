@@ -1,0 +1,15 @@
+ORM
+
+ Implementar os metodos
+
+ - TipoUsuario:
+      Listar, BuscarPorId, Cadastrar, Atualizar, Deletar;
+
+ - Usuarios:
+      Listar, BuscarPorId, Cadastrar, Atualizar, Deletar;
+
+ - Jogos:
+     Listar com as informações dos estudios, BuscarPorId, Cadastrar, Atualizar, Deletar, Listar os jogos de um determnado estudio;
+
+ - Estudios:
+    Listar apenas estudios, BuscarPorId, Cadastrar, Atualizar, Deletar, Listar os estudios com a lista de jogos daquele estudio;
