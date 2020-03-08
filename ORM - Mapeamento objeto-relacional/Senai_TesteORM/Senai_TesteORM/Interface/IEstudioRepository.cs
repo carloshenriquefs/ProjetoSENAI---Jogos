@@ -10,8 +10,15 @@ namespace Senai_TesteORM
     {
         List<Estudio> Listar();
 
-        void Cadastrar(IEstudioRepository novoEstudio);
-
         Estudio BuscarPorId(int id);
+
+        void Cadastrar(Estudio novoEstudio);
+
+        void Atualizar(int id, Estudio estudioAtualizado);
+
+        void Deletar(int id);
+
+        List<Estudio> ListarEstudioPorJogos();
+        void Atualizar(Estudio estudioAtualizado);
     }
 }

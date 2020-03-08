@@ -12,3 +12,17 @@ C:\Users\36349647823\Desktop\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug
 C:\Users\36349647823\Desktop\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.RazorTargetAssemblyInfo.cache
 C:\Users\36349647823\Desktop\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.dll
 C:\Users\36349647823\Desktop\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.pdb
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\bin\Debug\netcoreapp2.1\Senai_TesteORM.deps.json
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\bin\Debug\netcoreapp2.1\Senai_TesteORM.runtimeconfig.json
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\bin\Debug\netcoreapp2.1\Senai_TesteORM.runtimeconfig.dev.json
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\bin\Debug\netcoreapp2.1\Senai_TesteORM.dll
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\bin\Debug\netcoreapp2.1\Senai_TesteORM.pdb
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.csprojAssemblyReference.cache
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.RazorAssemblyInfo.cache
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.RazorAssemblyInfo.cs
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.AssemblyInfoInputs.cache
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.AssemblyInfo.cs
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.RazorTargetAssemblyInfo.cache
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.dll
+D:\Senai - Santa cecilia\Bando-de-Dados\Projeto RMO\Senai_TesteORM\Senai_TesteORM\obj\Debug\netcoreapp2.1\Senai_TesteORM.pdb

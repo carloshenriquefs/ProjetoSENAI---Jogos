@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj": {}
+    "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj": {
+    "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
+        "projectUniqueName": "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
         "projectName": "Senai_TesteORM",
-        "projectPath": "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
+        "projectPath": "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
         "packagesPath": "C:\\Users\\Carlos Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\obj\\",
+        "outputPath": "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,16 +47,33 @@
               "version": "[2.1.1, )",
               "autoReferenced": true
             },
-            "Microsoft.AspNetCore.Razor.Design": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[2.1.14, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
