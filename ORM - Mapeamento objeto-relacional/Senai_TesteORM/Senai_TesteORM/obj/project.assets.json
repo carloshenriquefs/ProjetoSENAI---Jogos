@@ -12544,11 +12544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
       "projectName": "Senai_TesteORM",
-      "projectPath": "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
+      "projectPath": "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\Senai_TesteORM.csproj",
       "packagesPath": "C:\\Users\\Carlos Henrique\\.nuget\\packages\\",
-      "outputPath": "D:\\Senai - Santa cecilia\\Bando-de-Dados\\Projeto RMO\\Senai_TesteORM\\Senai_TesteORM\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Henrique\\Desktop\\GITHUB - Exercicios\\ProjetoSENAI---Jogos\\ORM - Mapeamento objeto-relacional\\Senai_TesteORM\\Senai_TesteORM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
